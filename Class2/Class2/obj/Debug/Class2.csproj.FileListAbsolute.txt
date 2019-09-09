@@ -4,3 +4,10 @@
 /Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.csproj.CoreCompileInputs.cache
 /Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.exe
 /Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.pdb
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\bin\Debug\Class2.exe.config
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\bin\Debug\Class2.exe
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\bin\Debug\Class2.pdb
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\obj\Debug\Class2.csprojAssemblyReference.cache
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\obj\Debug\Class2.csproj.CoreCompileInputs.cache
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\obj\Debug\Class2.exe
+C:\Users\soslo\OneDrive\Documents\GitHub\OPIM3223_Class2\Class2\Class2\obj\Debug\Class2.pdb
