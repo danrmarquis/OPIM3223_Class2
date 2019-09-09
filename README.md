@@ -1,14 +1,22 @@
 # OPIM3223_Class2
 Let's cover some programming basics before we dive into Unity!
 
-## Variables
+## GitHub Desktop and Other Setup
 
-## Conditionals
+## Personal READMEs!
+  - What is Markdown?
+  - Markdown cheatsheet: [Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  - Create your own README!
 
-## Operators
-
-## Functions
-
-## Libraries
-
-## Overview of Unity Interface
+## Introduction to C#
+ - Strings and Numbers
+ - Conditionals, Loops and Operators
+ - Lists
+ - Functions
+ - Comments
+ - Let's Practice
+ - For more practice: [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
+ 
+ ## What does C# do in Unity?
+ 
+ ## Next Class
