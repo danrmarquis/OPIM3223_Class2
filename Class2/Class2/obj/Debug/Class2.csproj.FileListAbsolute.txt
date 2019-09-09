@@ -1,0 +1,6 @@
+/Users/danielmarquis/Projects/Class2/Class2/bin/Debug/Class2.exe
+/Users/danielmarquis/Projects/Class2/Class2/bin/Debug/Class2.pdb
+/Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.csprojAssemblyReference.cache
+/Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.csproj.CoreCompileInputs.cache
+/Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.exe
+/Users/danielmarquis/Projects/Class2/Class2/obj/Debug/Class2.pdb
